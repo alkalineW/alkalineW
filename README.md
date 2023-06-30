@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alkalineW
-- imporving js
+- improving javascript as well as frontend skills
+- learning react
 
 <!---
 alkalineW/alkalineW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
